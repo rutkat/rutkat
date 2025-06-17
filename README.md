@@ -1,4 +1,4 @@
-FULL-STACK DEV
+## FULL-STACK DEV
 - 🔭 I’m currently working on building AI tools & full-stack apps
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open-source projects/co-authoring
@@ -6,7 +6,7 @@ FULL-STACK DEV
 - 💬 Ask me about contracting/freelancing/co-founding
 - ⚡ Fun fact: I sweat mainly from my right arm-pit 🥵
 - 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -17,7 +17,7 @@ FULL-STACK DEV
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### My Code Snippets & Tutorials
-[Python Full-stack](https://github.com/rutkat/python-fullstack)
-[ReactJS](https://github.com/rutkat/react-snippets)
-[Docker](https://github.com/rutkat/docker)
-[Machine Learning](https://github.com/rutkat/machine-learning)
+[Python Full-stack](https://github.com/rutkat/python-fullstack)  
+[ReactJS](https://github.com/rutkat/react-snippets)  
+[Docker](https://github.com/rutkat/docker)  
+[Machine Learning](https://github.com/rutkat/machine-learning)  
