@@ -1,5 +1,5 @@
 ## FULL-STACK DEV
-- 🔭 I’m currently working on building AI tools & full-stack apps
+- 🔭 I’m working on building AI tools & full-stack apps
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open-source projects/co-authoring
 - 🤔 I’m looking for gigs/full-time work
