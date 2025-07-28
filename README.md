@@ -21,3 +21,22 @@
 [ReactJS](https://github.com/rutkat/react-snippets)  
 [Docker](https://github.com/rutkat/docker)  
 [Machine Learning](https://github.com/rutkat/machine-learning)  
+
+### List of AI/LLM Model Leaderboards
+[https://gorilla.cs.berkeley.edu/leaderboard.html] (https://gorilla.cs.berkeley.edu/leaderboard.html)
+
+[https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison] (https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison)
+
+[https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/] (https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
+
+[https://huggingface.co/spaces/hf-audio/open_asr_leaderboard] (https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
+
+[https://scale.com/leaderboard] (https://scale.com/leaderboard)
+
+[https://artificialanalysis.ai/leaderboards/models] (https://artificialanalysis.ai/leaderboards/models)
+
+[https://epoch.ai/data/notable-ai-models] (https://epoch.ai/data/notable-ai-models)
+
+[https://openlm.ai/chatbot-arena] (https://openlm.ai/chatbot-arena)
+
+[https://lmarena.ai/?leaderboard] (https://lmarena.ai/?leaderboard)
