@@ -17,12 +17,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### My Code Snippets & Tutorials
-[Python Full-stack](https://github.com/rutkat/python-fullstack)  
-[ReactJS](https://github.com/rutkat/react-snippets)  
-[Docker](https://github.com/rutkat/docker)  
-[Machine Learning](https://github.com/rutkat/machine-learning)  
+1. [Context-Engineering Book](https://github.com/rutkat/context-engineering/blob/main/README.md)  
+2. [Python Full-stack](https://github.com/rutkat/python-fullstack)  
+3. [Docker](https://github.com/rutkat/docker)  
+4. [Machine Learning](https://github.com/rutkat/machine-learning)  
+5. [ReactJS](https://github.com/rutkat/react-snippets)  
 
 ### List of AI/LLM Model Leaderboards
+> Benchmarks can be biased and even manipulated. Conduct your own experiments and testing when choosing an LLM.
+ 
 [https://gorilla.cs.berkeley.edu/leaderboard.html](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
 [https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison](https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison)
