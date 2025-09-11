@@ -5,7 +5,7 @@
 - 🤔 I’m looking for gigs/full-time work
 - 💬 Ask me about contracting/freelancing/co-founding
 - ⚡ Fun fact: I sweat mainly from my right arm-pit 🥵
-- Reach me @ x.com/therutkat
+- ✉️ Reach me @ x.com/therutkat
  
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
