@@ -6,8 +6,6 @@
 - 💬 Ask me about contracting/freelancing/co-founding
 - ⚡ Fun fact: I sweat mainly from my right arm-pit 🥵
 - ✉️ Reach me @ x.com/therutkat  
-
- ![Image](https://github.com/user-attachments/assets/fe73baab-3ca5-459b-9099-e11ef6bd93ea)
  
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +23,8 @@
 3. [Docker](https://github.com/rutkat/docker)  
 4. [Machine Learning](https://github.com/rutkat/machine-learning)  
 5. [ReactJS](https://github.com/rutkat/react-snippets)  
+
+ ![Image](https://github.com/user-attachments/assets/fe73baab-3ca5-459b-9099-e11ef6bd93ea)
 
 ### List of AI/LLM Model Leaderboards
 > Benchmarks can be biased and even manipulated. Conduct your own experiments and testing when choosing an LLM.
