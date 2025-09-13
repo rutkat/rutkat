@@ -2,10 +2,12 @@
 - 🔭 I’m working on building AI tools & full-stack apps
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open-source projects/co-authoring
-- 🤔 I’m looking for gigs/full-time work
+- 🗣️ I speak 7 languages (excluding programming languages)
 - 💬 Ask me about contracting/freelancing/co-founding
 - ⚡ Fun fact: I sweat mainly from my right arm-pit 🥵
-- ✉️ Reach me @ x.com/therutkat
+- ✉️ Reach me @ x.com/therutkat  
+
+ ![Image](https://github.com/user-attachments/assets/fe73baab-3ca5-459b-9099-e11ef6bd93ea)
  
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
