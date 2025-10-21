@@ -29,7 +29,7 @@
 ### List of AI/LLM Model Leaderboards
 > Benchmarks can be biased and even manipulated. Conduct your own experiments and testing when choosing an LLM.  
 
-[https://huggingface.co/spaces/mteb/leaderboard](Embeddings leaderboard https://huggingface.co/spaces/mteb/leaderboard)
+Embeddings leaderboard [https://huggingface.co/spaces/mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
  
 [https://gorilla.cs.berkeley.edu/leaderboard.html](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
