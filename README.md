@@ -17,12 +17,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### My Code Snippets & Tutorials
+### My Code Projects & Tutorials
 1. [Context-Engineering Book](https://github.com/rutkat/context-engineering/blob/main/README.md)  
 2. [Python Full-stack](https://github.com/rutkat/python-fullstack)  
 3. [Docker](https://github.com/rutkat/docker)  
 4. [Machine Learning](https://github.com/rutkat/machine-learning)  
-5. [ReactJS](https://github.com/rutkat/react-snippets)  
+5. [ReactJS](https://github.com/rutkat/react-snippets)
+6. [Command Line Tools](https://github.com/rutkat/cli-samples)
 
  ![Image](https://github.com/user-attachments/assets/fe73baab-3ca5-459b-9099-e11ef6bd93ea)
 
