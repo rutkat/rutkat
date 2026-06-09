@@ -30,8 +30,6 @@
 ### List of AI/LLM Model Leaderboards
 > Benchmarks can be biased and even manipulated. Conduct your own experiments and testing when choosing an LLM.  
 
-GPU Pricing Leaderboard [https://gpuleaderboard.com/](https://gpuleaderboard.com/)
-
 Design Leaderboard [https://www.designarena.ai/leaderboard](https://www.designarena.ai/leaderboard)  
 
 Embeddings Leaderboard [https://huggingface.co/spaces/mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
