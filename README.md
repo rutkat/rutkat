@@ -38,8 +38,6 @@ Embeddings Leaderboard [https://huggingface.co/spaces/mteb/leaderboard](https://
 
 [https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison](https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison)
 
-[https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
-
 [https://huggingface.co/spaces/hf-audio/open_asr_leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 
 [https://scale.com/leaderboard](https://scale.com/leaderboard)
