@@ -49,3 +49,5 @@ Embeddings Leaderboard [https://huggingface.co/spaces/mteb/leaderboard](https://
 [https://openlm.ai/chatbot-arena](https://openlm.ai/chatbot-arena)
 
 [https://lmarena.ai/?leaderboard](https://lmarena.ai/?leaderboard)
+
+![Image](https://gist.githubusercontent.com/rutkat/83857eb58619e0c9a91d055ace930b43/raw/ea0e138f9b945bbc8f926ed5e59d64425cf4ade5/footer.svg)
