@@ -1,10 +1,9 @@
 ## FULL-STACK DEV
+- ⌨️ Experience with Nextjs, React, Typescript, ReactQuery, Prisma ORM, Inngest, Polar Payments, Claude, Better-Auth, TailwindCSS
 - 🔭 I’m working on building AI tools & full-stack apps
-- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open-source projects/co-authoring
 - 🗣️ I speak 7 languages (excluding programming languages)
-- 💬 Ask me about contracting/freelancing/co-founding
-- ⚡ Fun fact: I sweat mainly from my right arm-pit 🥵
+- 💬 Ask me about contracting/consulting/co-founding
 - ✉️ Reach me @ x.com/therutkat  
  
 ## 💻 Tech Stack:
@@ -17,13 +16,14 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### My Code Projects & Tutorials
-1. [Context-Engineering Book](https://github.com/rutkat/context-engineering/blob/main/README.md)  
-2. [Python Full-stack](https://github.com/rutkat/python-fullstack)  
-3. [Docker](https://github.com/rutkat/docker)  
-4. [Machine Learning](https://github.com/rutkat/machine-learning)  
-5. [ReactJS](https://github.com/rutkat/react-snippets)
-6. [Command Line Tools](https://github.com/rutkat/cli-samples)
+### My Software Projects
+1. [Drag-n-Drop Automation Workflow Realtime Executor](https://github.com/rutkat/nodebase)    
+2. [Context-Engineering](https://github.com/rutkat/context-engineering/blob/main/README.md)  
+3. [Python Full-stack](https://github.com/rutkat/python-fullstack)  
+4. [Docker](https://github.com/rutkat/docker)  
+5. [Machine Learning](https://github.com/rutkat/machine-learning)  
+6. [ReactJS](https://github.com/rutkat/react-snippets)
+7. [Command Line Tools](https://github.com/rutkat/cli-samples)
 
  ![Image](https://github.com/user-attachments/assets/fe73baab-3ca5-459b-9099-e11ef6bd93ea)
 
